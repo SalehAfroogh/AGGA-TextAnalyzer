@@ -1,0 +1,243 @@
+59. The Australian Framework for Generative Artificial Intelligence (AI) in Schools 
+
+ 
+
+The Australian Framework for Generative Artificial Intelligence (AI) in Schools (the Framework) seeks to guide the responsible and ethical use of generative AI tools in ways that benefit students, schools and society What is Generative AI? Generative AI can generate new content such as text, images, audio, and video that resembles what humans can produce. It is effective at recognising patterns (in video, audio, text or images) and emulating them when tasked with producing something 
+
+Purpose and Audience The purpose of the Framework is to provide guidance on understanding, using and responding to generative AI in Australian school‑based education. It supports policy makers, school leaders, teachers, support staff, parents and students. It does not address other forms of artificial intelligence, including predictive AI. The Framework is aspirational in nature, defining what safe, ethical and responsible use of generative AI should look like to support better school outcomes. The Framework’s Principles and Guiding Statements are designed to help jurisdictions and sectors align existing approaches while also supporting the development of future work. 
+
+Design of the Framework The Framework is designed to help Australian school communities (students, teachers, staff, parents and carers) support: • Education outcomes: The Framework aims to recognise how the appropriate use of generative AI tools can enhance teaching and learning outcomes for all members of Australian school communities. • Ethical practices: The Framework aims to achieve the safe, responsible and ethical use of generative AI tools in Australian schools. 
+
+• Equity and inclusion: The Framework aims to ensure that generative AI tools are used in ways that are fair, accessible and inclusive of all Australian school communities. These goals are the basis of the Framework’s 6 Principles and 25 Guiding Statements. Figure 1 provides a high-level illustration of the Framework, highlighting the interconnectedness of the Principles. 
+
+Opportunities and Risks Generative AI technology has great potential to assist teaching and learning and reduce administrative workload in Australian schools. The growing accessibility and sophistication of generative AI tools provides opportunities to develop human-like generated text and rich multimedia content in a way that has not previously been possible. To fully harness the potential of high quality and safe generative AI, schools will need to be supported in understanding and appropriately managing a range of privacy, security and ethical considerations. Risk management should also be appropriate for the potential consequences. These consequences include the potential for errors and algorithmic bias in generative AI content; the misuse of personal or confidential information; and the use of generative AI for inappropriate purposes, such as to discriminate against individuals or groups, or to undermine the integrity of student assessments. Appropriate and proportionate risk management will require robust guidance and policy, which the Framework aims to support. 
+
+About the Framework In February 2023, Education Ministers agreed that responding to the risks and harnessing opportunities for Australian schools and students arising from generative AI technologies is a national education priority. Ministers agreed to develop an evidence-informed, best practice framework for Australian schools. The Framework was developed in consultation with unions, teachers, students, industry, academics, and parent and school representative bodies from all sectors. It was developed by the National AI in Schools Taskforce comprised of representatives from all jurisdictions, school sectors, and the national agencies - Educational Services Australia (ESA), Australian Curriculum, Assessment and Reporting Authority (ACARA),  Australian Institute for Teaching and School Leadership (AITSL), and Australian Education Research Organisation (AERO). The Framework aligns to existing national policies and goals. It complements Australia’s Artificial Intelligence Ethics Framework, and the two key goals of The Alice Springs (Mparntwe) Education Declaration: promoting equity and excellence in education; and enabling all young Australians to become confident and creative individuals, successful lifelong learners, and active and informed members of the community. Additionally, the Framework aligns to the United Nations sustainable development goal #4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. It also aligns with the Safer Technologies for Schools (ST4S) initiative which aims to enhance the security, privacy and online safety of software services and applications commonly used in Australian schools. Any policy development or amendments made to align with the Framework should also consider the Australian Professional Standards for Teachers (APST), Privacy Act 1988, Copyright 
+
+Act 1968, the eSafety Commissioner’s Best Practice Framework for Online Safety Education, and 
+
+Australia’s human rights protections. Where applicable, policies developed in alignment with the Framework must also meet existing government commitments to incorporate Indigenous community partnerships and expert reviews. Policies must also meet government obligations to ensure Indigenous communities have access to locally relevant data and information as per Closing the Gap Priority Reform 4. 
+
+Review The Framework will be reviewed by Education Ministers within 12 months of publication and every 12 months thereafter to accommodate the fast-moving pace of technological development in generative AI. Education Ministers may determine to review the Framework more frequently at their discretion. 
+
+Teaching and Learning Generative  
+
+AI tools are used to support and enhance teaching and learning. 1.1 Impact: generative AI tools are used in ways that enhance and support teaching, school administration, and student learning. 1.2 Instruction: schools engage students in learning about generative AI tools and how they work, including their potential limitations and biases, and deepen this learning as student usage increases. 1.3 Teacher expertise: generative AI tools are used in ways that support teacher expertise, and teachers are recognised and respected as the subject matter experts within the classroom. 1.4 Critical thinking: generative AI tools are used in ways that support and enhance critical thinking and creativity, rather than restrict human thought and experience. 1.5 Learning design: work designed for students, including assessments, clearly outlines how generative AI tools should or should not be used and allows for a clear and unbiased evaluation of student ability. 1.6 Academic integrity: students are supported to use generative AI tools ethically in their schoolwork, including by ensuring appropriate attribution. 
+
+Human and Social Wellbeing Generative  
+
+AI tools are used to benefit all members of the school community. 2.1 Wellbeing: generative AI tools are used in ways that do not harm the wellbeing and safety of any member of the school community. 2.2 Diversity of perspectives: generative AI tools are used in ways that expose users to diverse ideas and perspectives and avoid the reinforcement of biases. 2.3 Human rights: generative AI tools are used in ways that respect human and worker rights, including individual autonomy and dignity.  
+
+Transparency School communities understand how generative  
+
+AI tools work, how they can be used, and when and how these tools are impacting them. 3.1 Information and support: teachers, students, staff, parents and carers have access to clear and appropriate information and guidance about generative AI. 3.2 Disclosure: school communities are appropriately informed when generative AI tools are used in ways that impact them. 3.3 Explainability: vendors ensure that end users broadly understand the methods used by generative AI tools and their potential biases. 
+
+Fairness Generative  
+
+AI tools are used in ways that are accessible, fair, and respectful. 4.1 Accessibility and inclusivity: generative AI tools are used in ways that enhance opportunities, and are inclusive, accessible, and equitable for people with disability and from diverse backgrounds. 4.2 Equity and access: regional, rural and remote communities are considered when implementing generative AI. 4.3 Non-discrimination: generative AI tools are used in ways that support inclusivity, minimising opportunities for, and countering, unfair discrimination against individuals, communities, or groups. 4.4 Cultural and intellectual property: generative AI tools are used in ways that respect the cultural rights of various cultural groups, including Indigenous Cultural and Intellectual Property (ICIP) rights. 
+
+Accountability Generative  
+
+AI tools are used in ways that are open to challenge and retain human agency and accountability for decisions. 5.1 Human responsibility: teachers and school leaders retain control of decision making and remain accountable for decisions that are supported by the use of generative AI tools. 5.2 Reliability: generative AI tools are tested before they are used, and reliably operate in accordance with their intended purpose. 5.3 Monitoring: the impact of generative AI tools on school communities is actively and regularly monitored, and emerging risks and opportunities are identified and managed. 5.4 Contestability: members of school communities that are impacted by generative AI tools are actively informed about, and have opportunities to question, the use or outputs of the tools and any decisions informed by the tools. 
+
+Privacy, Security and Safety Students and others using generative  
+
+AI tools have their privacy and data protected. 6.1 Privacy and data protection: generative AI tools are used in ways that respect and uphold privacy and data rights, comply with Australian law, and avoid the unnecessary collection, limit the retention, prevent further distribution, and prohibit the sale of student data. 6.2 Privacy disclosure: school communities are proactively informed about how and what data will be collected, used, and shared while using generative AI tools, and consent is sought where needed. 6.3 Protection of student inputs: students, teachers and staff take appropriate care when entering information into generative AI tools which may compromise any individual’s data privacy. 6.4 Cyber-security and resilience: robust cyber-security measures are implemented to protect the integrity and availability of school infrastructure, generative AI tools, and associated data. 6.5 Copyright compliance: when using generative AI tools, schools are aware of, and take measures to comply with, applicable copyright rights and obligations. 
+
+60. Advice for students on using generative artificial intelligence in coursework What is Generative Artificial Intelligence or Gen-AI? 
+
+Generative Artificial Intelligence or Gen-AI is technology that is used to generate text, images, data, and videos in response to specific prompts. Gen-AI uses machine learning to do this. 
+
+A prompt is a descriptive phrase or sentence that directs the Gen-AI to create content.  
+
+Examples of Gen-AI 
+
+			 	ChatGPT, a text generator 
+
+			 	DALL-E,  an image generator 
+
+			 	Microsoft Copilot, AI platform with text and image generator 
+
+As digital technologies become increasingly common, Gen-AI will become widely used in all common software systems that you use in your study, work, and personal life.  
+
+This means that, while Gen-AI may be a good resource to support your studies, you must be aware of the risks when using this type of technology.  
+
+How and when you can use Gen-AI? 
+
+It is your responsibility to use Gen-AI in ways that are allowed by your Course Director and the University.  
+
+A Course Director is the person who oversees the running of your course. If your course has more than one lecturer, the Course Director will be likely be the primary lecturer listed on your course outline. 
+
+As Gen-AI is not allowed in all assessments, it is important to check the guidelines on permitted use of software in assessment activities. If you are unsure if you can use Gen-AI in a particular assessment, please check out Canvas and/or contact your Course Director.  
+
+An assessment can be: 
+
+			 	Essays 
+
+			 	Projects 
+
+			 	Presentations 
+
+			 	Reports 
+
+			 	Practical, aural, or oral work 
+
+			 	Written tests done in exam conditions 
+
+			 	Ongoing assessment of competence or performance 
+
+			 	Written or performance examination usually completed at the end of semester or year 
+
+Guidelines on permitted use of software in assessment activities 
+
+If Gen-AI is not approved for your assessment, you cannot use it for that assessment.  
+
+If Gen-AI is approved for use in your assessment, your Course Director may specify how you are allowed to use Gen-AI. 
+
+As mentioned earlier, please check with your Course Director if you are unsure of whether you can use Gen-AI for a particular assessment. 
+
+For example, your Course Director might allow you to use Gen-AI to:  
+
+			 	Revise 
+
+			 	Refine your writing 
+
+			 	Perform certain tasks 
+
+If you are allowed to use Gen-AI and you choose to use this technology to support your studies, it is your responsibility to ensure that: 
+
+			 	Using Gen-AI is allowed for the particular assessment you are using it for 
+
+			 	The final work submitted is your work, reflecting your learning and performance 
+
+			 	You correctly acknowledge your use of Gen-AI software* 
+
+*To correctly acknowledge your use of Gen-AI software, you can check with your Course Director and/or Canvas for specific instructions on formatting this acknowledgement. 
+
+For additional information on how to reference AI-generated content in your writing, please visit Quick©ite. 
+
+If you use Gen-AI in ways that are not allowed by your Course Director, you may be in breach of the Student Academic Conduct Statute. 
+
+Risks to using Gen-AI 
+
+There are risks to using Gen-AI to support your studies. It is important to: 
+
+			 	Think about and understand what the risks of using Gen-AI are 
+
+			 	Critically consider and evaluate what the Gen-AI produces when you use them 
+
+			 	Remember that there are differences between different Gen-AI technologies 
+
+Accuracy 
+
+Even though the information presented sounds convincing, content that is generated by Gen-AI technologies can be: 
+
+			 	Non-factual 
+
+			 	Inaccurate 
+
+			 	Out-of-date 
+
+You should not use information generated by Gen-AI as your primary and/or only source. You must fact-check all Gen-AI outputs using other reliable sources. 
+
+Bias 
+
+Content produced by Gen-AI can reflect any biases found within the data sources that the Gen-AI uses that include, but are not limited to:  
+
+			 	Discrimination of marginalised groups 
+
+			 	Under-representation of marginalised groups 
+
+You should critically review any output generated by Gen-AI with the potential of biases in mind.  
+
+Quality 
+
+Content produced by Gen-AI may lack originality and you are given may not have the tone that you are trying to achieve for your assessment.  
+
+Additionally, the content may not be written in a way that is appropriate for your assessment.  
+
+For these reasons, remember that the content generated by GenAI may not be of a high standard. 
+
+Privacy 
+
+As Gen-AI learns from everything that you put into it, please make sure to not enter any: 
+
+			 	Personal details 
+
+			 	Confidential information 
+
+			 	Confidential data 
+
+This is because the Gen-AI you use will remember what this information is and may use it in other generated responses.  
+
+How Gen-AI may support your studies 
+
+You may be allowed to use Gen-AI to support you in your studies. Your Course Director will specify how you can use Gen-AI in their course. 
+
+These are some of the ways that Gen-AI may support your studies: 
+
+ 	Help you to revise your course content, such as through generating practice questions or flashcards 
+
+			 	Get a general overview of your topic before you begin researching in more detail 
+
+ Help you to improve your writing skills, including grammar, use of vocabulary, and sentence structure 
+
+ Explain solutions to problems in another way to help you understand how a particular answer was arrived at, such as in mathematics 
+
+			 	Help you to analyse data and/or organise information 
+
+Misusing Gen-AI 
+
+There are many ways that Gen-AI can be misused in your studies, including:  
+
+			 	Using Gen-AI in assessments that you have been told the use of Gen-AI is not allowed 
+
+			 	Using Gen-AI in ways not allowed by your Course Director 
+
+ Using Gen-AI to write or develop your assessments for you. All work that you submit must be your own work and representative of your capabilities. This includes where your Course Director allows you to use Gen-AI to support your learning 
+
+			 	Using Gen-AI where it is allowed and not correctly acknowledging its use 
+
+If you use Gen-AI in any of the mentioned ways, you may be in break of the Student Academic Conduct Statute. 
+
+Microsoft Copilot 
+
+The University of Auckland is pleased to announce that a secured version of Microsoft Copilot is now available for students. This tool is a powerful Gen-AI platform currently based on GPT-4 and DALL-E 3 that can assist and enhance your learning experience. This version of Copilot provides a secure environment for your work, the information you enter into Copilot is protected. 
+
+Accessing Microsoft Copilot 
+
+To access Microsoft Copilot, go to https://copilot.microsoft.com with your internet browser. 
+
+Ensure you log in using your University of Auckland account. Upon successful login, a green 
+
+“Protected” icon should appear on the top right of the Copilot interface, indicating that you are in the secured version. 
+
+Responsible Usage 
+
+While Microsoft Copilot is a powerful tool, it’s important to use it responsibly. The provision of this tool by the University of Auckland does not constitute an endorsement to use Gen-AI in all situations. Always refer to the guidelines on responsible Gen-AI usage provided in other sections of this webpage. Remember, the goal is to enhance your learning, not to replace it. 
+
+We encourage you to explore this tool and make the most of its capabilities responsibly while adhering to the principles of academic integrity. 
+
+Additional information 
+
+To learn more about academic integrity at the University of Auckland and effective study skills to support your learning, please check out:  
+
+If you're not sure about using Gen-AI 
+
+Course-specific questions 
+
+If you have questions about using Gen-AI in your courses, get in touch with your Course Director and/or tutor. They can help answer questions about Gen-AI use in your specific courses. 
+
+You can find your Course Director's details on Canvas. 
+
+Questions about University policy and procedures 
+
+If you have general questions about University policy and/or procedures around using Gen-AI, you can email the Academic Quality Office.  
+
+Academic Quality Office 
+
+Academic skills support 
+
+If you are looking for support in developing your academic skills, you can get in touch with the Learning Advisers at Libraries and Learning Services.  
+
+Learning advisers

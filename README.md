@@ -19,7 +19,7 @@ A Python-based project for processing `.docx` and `.txt` files, generating word 
 
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository::
    ```bash
    git clone https://github.com/SalehAfroogh/AGGA-TextAnalyzer.git
 

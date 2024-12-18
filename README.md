@@ -23,3 +23,9 @@ A Python-based project for processing `.docx` and `.txt` files, generating word 
    ```bash
    git clone https://github.com/SalehAfroogh/AGGA-TextAnalyzer.git
 
+<strong>Contributors</strong>
+
+Kevin Chen
+Saleh Afroogh (Lead Researcher)
+For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.edu.
+

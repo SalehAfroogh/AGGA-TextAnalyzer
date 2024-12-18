@@ -25,7 +25,7 @@ A Python-based project for processing `.docx` and `.txt` files, generating word 
 
 <strong>Contributors</strong>
 
-Kevin Chen
+Kevin Chen,
 Saleh Afroogh (Lead Researcher)
 For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.edu.
 
